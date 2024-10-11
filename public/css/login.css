@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-form {
+    width: 50%;
+    margin-top: 20%;
+}
+
+.box-form img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin: 2rem 0;
+}
+
+.img-box {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-con {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
